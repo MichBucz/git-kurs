@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 tinit siemasiema(){
-    sammy by ludwik
+    sammy by ludwik}
+=======
+#include <studio.h>;
+int calculate(int a, int b){
+    int wynik = a + b
+    return wynik
+}
+
+
+
+void main(){
+    printf("hurra działa");
+>>>>>>> e2b6b7c556fa10b16d66670623c047da395581bd
 }
