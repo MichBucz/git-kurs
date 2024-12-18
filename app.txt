@@ -1,1 +1,3 @@
-test
+tinit siemasiema(){
+    sammy by ludwik
+}
